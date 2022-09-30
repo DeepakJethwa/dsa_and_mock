@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2931aa4-2f66-4c4e-aaa9-e0e2956ea604" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="29scdlsfbKjxQXgcMGnuGj2Hyjz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.checkifprime">
+    <configuration name="AlternateMatrixAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlternateMatrixAddition" />
+      <module name="StudentGrades2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrayinsertatend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrayinsertatend" />
+      <module name="StudentGrades2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TowerOfHanoi" />
+      <module name="StudentGrades2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayinsertatindex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayinsertatindex" />
+      <module name="StudentGrades2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkifprime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="checkifprime" />
+      <module name="StudentGrades2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.checkifprime" />
+        <item itemvalue="Application.TowerOfHanoi" />
+        <item itemvalue="Application.AlternateMatrixAddition" />
+        <item itemvalue="Application.arrayinsertatindex" />
+        <item itemvalue="Application.Arrayinsertatend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2931aa4-2f66-4c4e-aaa9-e0e2956ea604" name="Changes" comment="" />
+      <created>1653905323910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653905323910</updated>
+      <workItem from="1653905325363" duration="859000" />
+      <workItem from="1653906224446" duration="840000" />
+      <workItem from="1653975142610" duration="8946000" />
+      <workItem from="1654067212902" duration="7001000" />
+      <workItem from="1654081370084" duration="4679000" />
+      <workItem from="1654278355832" duration="1884000" />
+      <workItem from="1654326241642" duration="22746000" />
+      <workItem from="1654409671090" duration="9642000" />
+      <workItem from="1654424050811" duration="329000" />
+      <workItem from="1654513415323" duration="4636000" />
+      <workItem from="1654591380591" duration="6637000" />
+      <workItem from="1654662017416" duration="15366000" />
+      <workItem from="1654759016953" duration="5337000" />
+      <workItem from="1654777896044" duration="4397000" />
+      <workItem from="1654850789535" duration="9278000" />
+      <workItem from="1654922104310" duration="1484000" />
+      <workItem from="1654931097661" duration="21982000" />
+      <workItem from="1655011841357" duration="15892000" />
+      <workItem from="1655099588000" duration="2464000" />
+      <workItem from="1655114115168" duration="644000" />
+      <workItem from="1655126079973" duration="2654000" />
+      <workItem from="1655184717265" duration="9764000" />
+      <workItem from="1655214455306" duration="663000" />
+      <workItem from="1655269253019" duration="7035000" />
+      <workItem from="1655309032905" duration="2398000" />
+      <workItem from="1655353680212" duration="917000" />
+      <workItem from="1655356439068" duration="7539000" />
+      <workItem from="1655366939706" duration="2657000" />
+      <workItem from="1655377927402" duration="3770000" />
+      <workItem from="1655402483364" duration="596000" />
+      <workItem from="1655453012979" duration="17074000" />
+      <workItem from="1655533613517" duration="5349000" />
+      <workItem from="1655541772780" duration="4259000" />
+      <workItem from="1655556018313" duration="4775000" />
+      <workItem from="1655570919231" duration="598000" />
+      <workItem from="1655654104891" duration="3925000" />
+      <workItem from="1655711489961" duration="5107000" />
+      <workItem from="1655717260776" duration="9164000" />
+      <workItem from="1655790883454" duration="2656000" />
+      <workItem from="1655794630926" duration="6642000" />
+      <workItem from="1655815962025" duration="2892000" />
+      <workItem from="1655882254598" duration="13548000" />
+      <workItem from="1655923755899" duration="921000" />
+      <workItem from="1656055701412" duration="3741000" />
+      <workItem from="1656092758457" duration="706000" />
+      <workItem from="1656138302789" duration="5900000" />
+      <workItem from="1656311075443" duration="4467000" />
+      <workItem from="1656329272728" duration="2022000" />
+      <workItem from="1656407041074" duration="6017000" />
+      <workItem from="1656504132672" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mohitandarray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint log-message="true" suspend="NONE" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
